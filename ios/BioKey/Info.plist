@@ -48,5 +48,15 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+	<key>NSCameraUsageDescription</key>
+	<string>היישום זקוק לגישה למצלמה</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>היישום זקוק לגישה למיקרופון</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>We need Bluetooth to connect to your device</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Location permission is needed to scan for BLE devices</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>האפליקציה צריכה בלוטות' לחיבור מכשירים קרובים.</string>
 </dict>
 </plist>
